@@ -1,11 +1,11 @@
 # Text Reconstruction using autoencoders
 Reconstructed corrupted text using deep learning
 
-##Prerequisites
+Prerequisites
 Python 3
 Deep Learning Concepts
 
-##Libraries used
+Libraries used
 1. Tensorflow
 2. Keras
 3. Numpy
@@ -15,7 +15,7 @@ Deep Learning Concepts
 7. glob
 8. skimage
 
-##License
+License
 Apache Version 2.0
 
 
